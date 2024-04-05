@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent_example</string>
+    <string name="hallo">Hallo ini dalah data kiriman dari halaman sebelumnya </string>
+</resources>
